@@ -82,6 +82,10 @@ body{
 #estate {
     background: url(../images/sfondook.jpg)}
 
+#sfondodoc {
+    background: url(../images/sfondodoc)
+}
+
 #fonticon {
 	height: 50vh;
 	width: 5vh;
