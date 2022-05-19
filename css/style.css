@@ -150,5 +150,19 @@ text-decoration: overline;}
     background: white;
 }
 
+#a {
+    font-size: 15px;
+    background-color: white;
+    color: black;
+}
 
+#b {
+    background-color: white;
+    padding: 2% 5% 2% 5%;
+}
 
+#aa{font-size: 25px;
+    background-color: white;
+    color: red;
+
+}
